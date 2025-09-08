@@ -1,4 +1,4 @@
-## Hi! This is Harika
+## Hi! This is Harika.
 
 <!--
 **harika88388/harika88388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
