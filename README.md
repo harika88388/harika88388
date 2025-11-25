@@ -23,4 +23,3 @@ This is **Harika**
 
  src="https://komarev.com/ghpvc/?username=harika88388&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
 </p>.
-this is my readme file. so make changes in ur so that I can directly paste etour code. I want the titles of tables to be aligned at the centre and the visitors count should be displayed at the centre of the bottom
