@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi there!
-This is **Harika**,
+This is **Harika**
 
 
 ## 🌐 Socials:
@@ -17,6 +17,6 @@ This is **Harika**,
 ![](https://github-contributor-stats.vercel.app/api?username=harika88388&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=harika88388&label=Profile%20views&color=0e75b6&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=harika88388&label=Visitors&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
