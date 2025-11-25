@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Hi there!
-I'm **Puppala Ratna Harika**, currently in Third Year, ECE Department, NIT Srinagar. 
+This is **Harika**,
 
 
 ## 🌐 Socials:
@@ -17,6 +17,6 @@ I'm **Puppala Ratna Harika**, currently in Third Year, ECE Department, NIT Srina
 ![](https://github-contributor-stats.vercel.app/api?username=harika88388&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harika88388&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=harika88388&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
