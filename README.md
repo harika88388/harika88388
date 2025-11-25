@@ -17,7 +17,7 @@ This is **Harika**
 ![](https://github-contributor-stats.vercel.app/api?username=harika88388&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Visitors](https://komarev.com/ghpvc/?username=harika88388&label=Visitors&color=0e75b6&style=flat)
+
 
 
 <p align="center">
