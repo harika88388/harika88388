@@ -11,7 +11,7 @@ This is **Harika**
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harika88388&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harika88388&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harika88388&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harika88388&theme=dark&hide_border=false&layout=compact&cache_seconds=7200)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=harika88388&limit=5&theme=dark&combine_all_yearly_contributions=true)
