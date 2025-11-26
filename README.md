@@ -22,15 +22,7 @@ This is **Harika**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika88388&theme=dark&hide_border=false&layout=compact&cache_seconds=7200" alt="Top Languages" />
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  username=harika88388&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harika88388&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika88388&theme=dark&hide_border=false&layout=compact&cache_seconds=7200" alt="Top Languages" />
-</p>
 
 
 
