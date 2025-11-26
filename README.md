@@ -12,7 +12,7 @@ This is **Harika**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harika88388&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  username=harika88388&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=harika88388&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
