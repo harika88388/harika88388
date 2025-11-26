@@ -21,5 +21,4 @@ This is **Harika**
 
 
 
- src="https://komarev.com/ghpvc/?username=harika88388&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
-</p>.
+![](https://komarev.com/ghpvc/?username=harika88388&label=Profile%20views&color=0e75b6&style=flat)
