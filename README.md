@@ -1,5 +1,6 @@
 <h1 align="center">Hi! This is Harika</h1>
-<p align="center">Running on caffeine and surviving chaos.
+<p align="center"> An ECE undergrad
+surviving core, learning cse stuff, and pretending I have all it under control.
 
 <h1 align="center"> 💻 Tech Stack</h1>
 
