@@ -40,4 +40,8 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harika88388&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
+  <a href="https://visitcount.itsvg.in/api?id=harika88388">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=harika88388" alt="Visitor Badge"/>
+  </a>
+</p>
+
