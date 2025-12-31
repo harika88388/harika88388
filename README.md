@@ -33,7 +33,7 @@ surviving core, learning CSE stuff.
   <a href="https://www.instagram.com/ratnaharika.puppala?igsh=MTRzeWN6ejhqbjJ3aw==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/RatnaHarikaPuppala">
+  <a href="[https://linkedin.com/in/RatnaHarikaPuppala](https://www.linkedin.com/in/ratna-harika-puppala-814791290?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:harikapuppala88388@gmail.com">
