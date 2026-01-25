@@ -13,11 +13,18 @@ surviving core, learning CSE stuff.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harika88388&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harika88388&show_icons=true&theme=dark&cache_seconds=1800" />
+
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harika88388&theme=dark&hide_border=false"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika88388&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harika88388&theme=dark&hide_border=false"/>  
+  <br/>  
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika88388&layout=compact&theme=dark&cache_seconds=1800" />
+
 </p>
   
 
