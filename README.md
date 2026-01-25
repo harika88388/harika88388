@@ -14,16 +14,10 @@ surviving core, learning CSE stuff.
 
 <p align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=harika88388&show_icons=true&theme=dark&cache_seconds=1800" />
-
-  <br/>
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=harika88388&theme=dark&hide_border=false"/>  
   <br/>  
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harika88388&layout=compact&theme=dark&cache_seconds=1800" />
 
 </p>
   
